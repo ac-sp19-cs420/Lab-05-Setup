@@ -1,5 +1,5 @@
 # Lab 5: Process & Thread Memory
-### 50 Points
+### 100 Points
 
 **Objective:** Establish memory protection between threads and processes
 
